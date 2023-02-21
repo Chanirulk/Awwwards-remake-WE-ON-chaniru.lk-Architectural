@@ -2,7 +2,7 @@
 
 # This Website was crafted by - @chaniru.lk - Instagram
 # Home
-![Screenshot](./assets/img/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 # About the AUTHOR
 
